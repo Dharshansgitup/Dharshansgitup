@@ -13,7 +13,7 @@
 
 <div align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=38&text=01%20%2F%20ABOUT%20ME&fontSize=19&fontColor=67E8F9&fontAlign=10&fontAlignY=70" width="100%" alt="/ About Me"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=38&text=01%20%2F%20ABOUT%20ME&fontSize=19&fontColor=67E8F9&fontAlign=10&fontAlignY=70" width="100%" alt="About Me"/>
 
 </div>
 
@@ -29,7 +29,7 @@ I enjoy learning through hands-on projects, improving my problem-solving skills,
 
 <div align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=38&text=02%20%2F%20MY%20TOOLKIT&fontSize=19&fontColor=A78BFA&fontAlign=10&fontAlignY=70" width="100%" alt="/ My Toolkit"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=38&text=02%20%2F%20MY%20TOOLKIT&fontSize=19&fontColor=A78BFA&fontAlign=10&fontAlignY=70" width="100%" alt="My Toolkit"/>
 
 </div>
 
@@ -38,8 +38,6 @@ I enjoy learning through hands-on projects, improving my problem-solving skills,
 <p>
 <img src="https://img.shields.io/badge/Java-181C27?style=flat&logo=openjdk&logoColor=F89820" alt="Java"/>
 <img src="https://img.shields.io/badge/JavaScript-181C27?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-181C27?style=flat&logo=python&logoColor=3776AB" alt="Python"/>
-<img src="https://img.shields.io/badge/C-181C27?style=flat&logo=c&logoColor=A8B9CC" alt="C"/>
 </p>
 
 **Web, Backend & Database**
