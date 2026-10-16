@@ -60,18 +60,4 @@ I enjoy learning through hands-on projects, improving my problem-solving skills,
 
 ---
 
-<div align="center">
-
-<a href="https://github.com/Dharshansgitup">GitHub Profile</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Dharshansgitup?tab=repositories">All Repositories</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22D3EE,50:818CF8,100:A78BFA" width="100%" alt="Gradient footer"/>
-
-<br/>
-
-<sub>LEARN · BUILD · IMPROVE</sub>
-
 </div>
