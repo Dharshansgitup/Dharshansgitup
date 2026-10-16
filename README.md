@@ -35,3 +35,74 @@ I'm an aspiring software developer interested in creating useful applications, l
 | Projects | Learning through hands-on implementation |
 | Goal | Growing into a skilled software engineer |
 
+---
+
+## Selected Projects
+
+*A selection of projects built through practical development, experimentation, and continuous learning.*
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 / Student Management System
+
+A web application for student registration, login, search, and student record management with MongoDB integration.
+
+**Technologies**
+
+`HTML` `CSS` `JavaScript` `Node.js` `MongoDB`
+
+[View source code →](https://github.com/Dharshansgitup/Student-management-System)
+
+</td>
+<td width="50%" valign="top">
+
+### 02 / VivaMind
+
+An AI-powered smart interview platform designed to support interview preparation with intelligent assessment features.
+
+**Technologies**
+
+`MERN Stack` `AI`
+
+[View repository →](https://github.com/Dharshansgitup/VivaMind-AI-Powered-Smart-Interview)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03 / TRANSMA
+
+A transport management application for managing transport bookings, drivers, and administrative operations.
+
+**Technologies**
+
+`MERN Stack` `JavaScript`
+
+[View repository →](https://github.com/Dharshansgitup/TRANSMA-Transport-Management)
+
+</td>
+<td width="50%" valign="top">
+
+### 04 / Car Showroom
+
+A web project focused on a car showroom interface and vehicle presentation.
+
+**Technologies**
+
+`HTML` `CSS` `JavaScript`
+
+[View repository →](https://github.com/Dharshansgitup/car-showroom)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Dharshansgitup?tab=repositories">Explore all repositories →</a>
+</p>
+
+---
+
