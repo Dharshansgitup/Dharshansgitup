@@ -4,9 +4,6 @@
 <!-- ====================================================== -->
 
 <div align="center">
-
-<img src="./profile-banner.png.png" width="100%" alt="Scenic mountain lake beneath a starry night sky"/>
-
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=DHARSHAN&fontSize=48&fontColor=38BDF8&fontAlignY=60" width="100%" alt="Dharshan"/>
 
 ### ASPIRING SOFTWARE DEVELOPER
