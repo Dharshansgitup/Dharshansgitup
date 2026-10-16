@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./profile-banner.png" width="100%" alt="Scenic mountain lake under the stars"/>
+<img src="./profile-banner.png.png" width="100%" alt="Scenic mountain lake under the stars"/>
 
 <br/>
 
