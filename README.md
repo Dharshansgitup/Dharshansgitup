@@ -1,138 +1,80 @@
 
-<!-- ====================================================== -->
-<!-- DHARSHAN | DEVELOPER PORTFOLIO                          -->
-<!-- ====================================================== -->
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=DHARSHAN&fontSize=48&fontColor=38BDF8&fontAlignY=60" width="100%" alt="Dharshan"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=85&text=Dharshan.&fontSize=58&fontColor=67E8F9&fontAlignY=60&animation=fadeIn" width="100%" alt="Dharshan"/>
 
 ### ASPIRING SOFTWARE DEVELOPER
 
-<p>Building practical applications · Learning continuously · Solving problems</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2600&pause=800&color=A5B4FC&center=true&vCenter=true&width=550&lines=Software+Development;Problem+Solving;Continuous+Learning" alt="Animated introduction"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=900&color=8B9CF6&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Applications;Exploring+Software+%26+Web+Development;Learning+Through+Real+Projects" alt="Animated developer tagline"/>
-
-<br/>
-
-<a href="https://github.com/Dharshansgitup">
-  <img src="https://img.shields.io/badge/GitHub-Profile-172033?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-</a>
-<a href="https://github.com/Dharshansgitup?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-Projects-087E8B?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-</a>
+<a href="https://github.com/Dharshansgitup">Profile</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Dharshansgitup?tab=repositories">Repositories</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Dharshansgitup/Student-management-System">My Work</a>
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/01-ABOUT_ME-087E8B?style=flat-square" alt="About me section"/>
+<div align="left">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=32&text=01%20%2F%20ABOUT%20ME&fontSize=19&fontColor=67E8F9&fontAlign=0&fontAlignY=70" width="100%" alt="01 / About Me"/>
 </div>
 
-## About Me
+I'm **Dharshan**, an aspiring software developer passionate about programming, building practical applications, and exploring technologies that solve real-world problems.
 
-I'm an aspiring software developer interested in building useful applications, exploring modern technologies, and solving real-world problems through code.
+I enjoy learning through hands-on projects, improving my problem-solving skills, and turning ideas into working software.
 
-I enjoy learning by building projects, improving my programming fundamentals, and understanding how applications connect their frontend, backend, and databases.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<strong>Development</strong><br/>
-Building practical applications and user interfaces.
-</td>
-<td width="50%" valign="top">
-<strong>Continuous Learning</strong><br/>
-Improving programming and database skills.
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<strong>Problem Solving</strong><br/>
-Breaking problems into manageable solutions.
-</td>
-<td width="50%" valign="top">
-<strong>My Goal</strong><br/>
-Growing into a capable software engineer.
-</td>
-</tr>
-</table>
+- **Development:** Building practical applications.
+- **Learning:** Improving programming and database skills.
+- **Goal:** Growing into a skilled software engineer.
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/02-TECHNOLOGY_STACK-6D5EF7?style=flat-square" alt="Technology stack section"/>
+<div align="left">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=32&text=02%20%2F%20MY%20TOOLKIT&fontSize=19&fontColor=A78BFA&fontAlign=0&fontAlignY=70" width="100%" alt="02 / My Toolkit"/>
 </div>
 
-## Technologies & Tools
+**Languages**
 
-<p align="center">
-  <strong>Languages</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=java,js,python,c&theme=dark" alt="Java, JavaScript, Python and C"/>
-</p>
+<img src="https://img.shields.io/badge/Java-181C27?style=flat&logo=openjdk&logoColor=F89820" alt="Java"/> <img src="https://img.shields.io/badge/JavaScript-181C27?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/> <img src="https://img.shields.io/badge/Python-181C27?style=flat&logo=python&logoColor=3776AB" alt="Python"/> <img src="https://img.shields.io/badge/C-181C27?style=flat&logo=c&logoColor=A8B9CC" alt="C"/>
 
-<p align="center">
-  <strong>Web Development & Databases</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,mongodb&theme=dark" alt="HTML, CSS, Node.js, Express and MongoDB"/>
-</p>
+**Web, Backend & Database**
 
-<p align="center">
-  <strong>Developer Tools</strong><br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code"/>
-</p>
+<img src="https://img.shields.io/badge/HTML5-181C27?style=flat&logo=html5&logoColor=E34F26" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-181C27?style=flat&logo=css3&logoColor=1572B6" alt="CSS3"/> <img src="https://img.shields.io/badge/Node.js-181C27?style=flat&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/> <img src="https://img.shields.io/badge/Express-181C27?style=flat&logo=express&logoColor=FFFFFF" alt="Express"/> <img src="https://img.shields.io/badge/MongoDB-181C27?style=flat&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+
+**Tools**
+
+<img src="https://img.shields.io/badge/Git-181C27?style=flat&logo=git&logoColor=F05032" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181C27?style=flat&logo=github&logoColor=FFFFFF" alt="GitHub"/> <img src="https://img.shields.io/badge/VS_Code-181C27?style=flat&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code"/>
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/03-SELECTED_PROJECTS-087E8B?style=flat-square" alt="Selected projects section"/>
+<div align="left">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=32&text=03%20%2F%20WHAT%27S%20NEXT&fontSize=19&fontColor=67E8F9&fontAlign=0&fontAlignY=70" width="100%" alt="03 / What's Next"/>
 </div>
 
-## GitHub Statistics
+- Strengthening programming fundamentals and logical thinking.
+- Improving backend development and database skills.
+- Building practical applications and refining existing projects.
+- Learning clean coding and secure development practices.
+
+---
+
+<div align="left">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=32&text=04%20%2F%20CONNECT&fontSize=19&fontColor=A78BFA&fontAlign=0&fontAlignY=70" width="100%" alt="04 / Connect"/>
+</div>
+
+I'm always interested in learning, collaborating, and exploring new ideas in software development.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dharshansgitup&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=8B9CF6" alt="GitHub statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshansgitup&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most-used programming languages"/>
+<a href="https://github.com/Dharshansgitup">GitHub Profile</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Dharshansgitup?tab=repositories">All Repositories</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Dharshansgitup&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=8B9CF6&currStreakLabel=38BDF8" alt="GitHub contribution streak"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22D3EE,50:818CF8,100:A78BFA" width="100%" alt="Gradient footer"/>
+
+<sub>LEARN · BUILD · IMPROVE</sub>
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/05-CURRENT_FOCUS-087E8B?style=flat-square" alt="Current focus section"/>
-</div>
-
-## Current Focus
-
-- Strengthening programming fundamentals.
-- Improving backend and database development.
-- Building practical applications and improving existing projects.
-- Learning secure coding practices and maintainable software design.
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:087E8B,50:6D5EF7,100:38BDF8" width="100%" alt="Cyan and violet divider"/>
-
-<br/>
-
-### Thank you for visiting my profile.
-
-*Learn continuously. Build thoughtfully. Improve every day.*
-
-<a href="https://github.com/Dharshansgitup">
-  <img src="https://img.shields.io/badge/CONNECT_ON-GITHUB-172033?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub"/>
-</a>
-
-<br/><br/>
-
-<sub>DESIGN · DEVELOP · DISCOVER</sub>
-
-</div>
-
