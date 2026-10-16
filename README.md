@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**Dharshansgitup/Dharshansgitup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="./profile-banner.png" width="100%" alt="Scenic mountain lake under the stars"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+# DHARSHAN
+
+### Aspiring Software Developer
+
+*Turning ideas into practical applications.*
+
+<br/>
+
+<a href="https://github.com/Dharshansgitup">
+  <img src="https://img.shields.io/badge/GitHub-View_Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+<a href="https://github.com/Dharshansgitup?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore_Work-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+</a>
+
+</div>
+
+---
+
+## About Me
+
+I'm an aspiring software developer interested in creating useful applications, learning new technologies, and solving real-world problems through code.
+
+| Focus | Description |
+|:--|:--|
+| Development | Building practical applications |
+| Learning | Improving programming and database skills |
+| Projects | Learning through hands-on implementation |
+| Goal | Growing into a skilled software engineer |
+
