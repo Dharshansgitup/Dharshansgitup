@@ -68,6 +68,8 @@ Hello! I'm **Dharshan**, an aspiring software developer passionate about buildin
 </p>
 
 ---
+
+
 ## 03 / GITHUB STATISTICS
 
 <div align="center">
@@ -80,17 +82,7 @@ Hello! I'm **Dharshan**, an aspiring software developer passionate about buildin
 
 ---
 
-## 04 / CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=67E8F9&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 05 / CURRENT FOCUS
+## 04 / CURRENT FOCUS
 
 - Strengthening Data Structures and Algorithms.
 - Practicing Java problem-solving.
