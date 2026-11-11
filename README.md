@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Dharshan%20T.&fontSize=65&fontColor=67E8F9&fontAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Dharshan%20T &fontSize=65&fontColor=67E8F9&fontAlignY=55&animation=fadeIn" width="100%" />
 
 <h3>ASPIRING SOFTWARE DEVELOPER | JAVA ENTHUSIAST</h3>
 
