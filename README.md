@@ -68,38 +68,7 @@ Hello! I'm **Dharshan**, an aspiring software developer passionate about buildin
 </p>
 
 ---
-
-## 03 / FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">VivaMind</h3>
-<p align="center">
-AI-Powered Smart Interview Platform
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/MERN-181C27?style=flat&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/AI-181C27?style=flat&logo=openai&logoColor=white"/>
-</p>
-<p align="center">An intelligent platform designed to support interview preparation and improve candidate readiness.</p>
-</td>
-<td width="50%">
-<h3 align="center">TRANSMA</h3>
-<p align="center">
-Transport Management System
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Software%20Development-181C27?style=flat&logo=github&logoColor=white"/>
-</p>
-<p align="center">A project focused on organizing and managing transportation-related operations.</p>
-</td>
-</tr>
-</table>
-
----
-
-## 04 / GITHUB STATISTICS
+## 03 / GITHUB STATISTICS
 
 <div align="center">
 
@@ -111,7 +80,7 @@ Transport Management System
 
 ---
 
-## 05 / CONTRIBUTION ACTIVITY
+## 04 / CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -121,7 +90,7 @@ Transport Management System
 
 ---
 
-## 06 / CURRENT FOCUS
+## 05 / CURRENT FOCUS
 
 - Strengthening Data Structures and Algorithms.
 - Practicing Java problem-solving.
